@@ -12,3 +12,8 @@ The AI starts with a population of birds, each controlled by a neural network.<b
 Each bird plays the game independently, trying to pass through pipes without hitting them.<br>
 Birds that perform well (i.e., survive longer and pass more pipes) are allowed to reproduce, with their neural networks evolving and mutating.<br>
 Over generations, the AI learns to master the game by optimizing its ability to avoid obstacles<br>
+
+# Technologies Used
+**Programming Language:** Python<br>
+**Game Library:** Pygame<br>
+**AI Library:** NEAT-Python
